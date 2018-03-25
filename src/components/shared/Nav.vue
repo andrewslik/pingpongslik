@@ -10,7 +10,7 @@
 
             <p>Wins: 8</p>
             <p>Losses: 2</p>
-            <p>Win/Lose Ratio: 80%</p>
+            <p>Win rate: 80%</p>
 
             <div class="cta-container">
                 <p class="challenge">Challenge</p>

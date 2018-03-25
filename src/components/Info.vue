@@ -5,6 +5,10 @@
             <p>Andrew Bonifacio</p>
         </section>
         <section>
+            <h3>Nickname</h3>
+            <p>Ukemeister</p>
+        </section>
+        <section>
             <h3>Born</h3>
             <p>July 25, 1992</p>
         </section>
@@ -13,17 +17,14 @@
             <p>Web Developer</p>
         </section>
         <section>
-            <h3>Wins</h3>
-            <p>80</p>
+            <h3>Team</h3>
+            <p>Dynamic Content</p>
         </section>
         <section>
-            <h3>Loses</h3>
-            <p>20</p>
+            <h3>Slik Start</h3>
+            <p>August 3, 2015</p>
         </section>
-        <section>
-            <h3>Total games</h3>
-            <p>100</p>
-        </section>
+
     </div>
 </template>
 

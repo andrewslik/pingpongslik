@@ -1,14 +1,6 @@
 <template lang="html">
     <div class="stats-container">
         <section>
-            <h3>Name</h3>
-            <p>Andrew Bonifacio</p>
-        </section>
-        <section>
-            <h3>Born</h3>
-            <p>July 25, 1992</p>
-        </section>
-        <section>
             <h3>Rank</h3>
             <p>2</p>
         </section>
@@ -24,8 +16,16 @@
             <h3>Total games</h3>
             <p>100</p>
         </section>
+        <section>
+            <h3>Win rate</h3>
+            <p>80%</p>
+        </section>
+        <section>
+            <h3>Streak</h3>
+            <p>11 wins</p>
+        </section>
         <div class="stats-button">
-            stats
+            player record
         </div>
     </div>
 </template>
