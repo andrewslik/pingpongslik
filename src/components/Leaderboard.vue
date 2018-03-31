@@ -1,5 +1,5 @@
 <template>
-    <div>
+    <div class="table-container">
         <table class="table">
             <thead>
                 <tr>
@@ -61,6 +61,13 @@ export default {
 h3 {
     color: #fff;
     margin-bottom: 30px;
+}
+.table-container {
+    position: relative;
+    height: 60vh;
+    overflow: hidden;
+    overflow-y: scroll;
+    margin: 50px 0;
 }
 </style>
 
