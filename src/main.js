@@ -11,6 +11,7 @@ import Footer from './components/shared/Footer.vue'
 import Hero from './components/Hero.vue'
 import Leaderboard from './components/Leaderboard.vue'
 import Profile from './components/Profile.vue'
+import QuickGame from './components/QuickGame.vue'
 
 Vue.config.productionTip = false
 Vue.component('app-nav', Nav)
@@ -20,6 +21,7 @@ Vue.component('app-footer', Footer)
 Vue.component('app-hero', Hero)
 Vue.component('app-leaderboard', Leaderboard)
 Vue.component('app-profile', Profile)
+Vue.component('app-quickgame', QuickGame)
 
 /* eslint-disable no-new */
 new Vue({

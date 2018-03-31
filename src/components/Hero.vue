@@ -6,6 +6,7 @@
                     <div class="content">
                         <h1>Player Profile</h1>
                         <app-profile></app-profile>
+                        <app-quickgame></app-quickgame>
                     </div>
                 </div>
 
