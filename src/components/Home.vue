@@ -2,8 +2,8 @@
     <div class="home">
 
         <app-nav></app-nav>
-        <app-info></app-info>
-        <app-stats></app-stats>
+        <app-hero></app-hero>
+        <app-footer></app-footer>
     </div>
 </template>
 
@@ -12,6 +12,6 @@ export default {
 }
 </script>
 
-<style lang="css">
+<style lang="scss">
 @import url('https://fonts.googleapis.com/css?family=Open+Sans|Roboto');
 </style>
