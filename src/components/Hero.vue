@@ -37,4 +37,11 @@ h1 {
     margin-bottom: 60px;
     letter-spacing: -1.1px;
 }
+$mobile: 480px;
+@media screen and (max-width: $mobile) {
+    .hero {
+        margin-left: 50px;
+        margin-right: 50px;
+    }
+}
 </style>

@@ -69,5 +69,16 @@ h3 {
     overflow-y: scroll;
     margin: 50px 0;
 }
+
+$mobile: 480px;
+@media screen and (max-width: $mobile) {
+    .table-container {
+        position: relative;
+        height: 100%;
+        // overflow: hidden;
+        // overflow-y: scroll;
+        // margin: 50px 0;
+    }
+}
 </style>
 

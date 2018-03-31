@@ -35,12 +35,6 @@ p {
     background: #FF1782;
     margin: 0 10px;
     p {
-        /* position: relative; */
-        /* top: 0; */
-        /* left: 0; */
-        /* right: 0; */
-        /* bottom: 0; */
-        /* height: 198px; */
         margin: auto;
         width: 100%;
         text-align: center;
@@ -61,6 +55,25 @@ p {
 .play {
     &:hover {
         background: #ec5199;
+    }
+}
+$mobile: 480px;
+@media screen and (max-width: $mobile) {
+
+    .play, .challenge {
+        width: 90%;
+        height: 100px;
+        margin: 0 10px;
+        p {
+            margin: auto;
+            width: 100%;
+            text-align: center;
+            font-size: 26px;
+            line-height: 78px;
+        }
+    }
+    .play {
+        margin-bottom: 20px;
     }
 }
 </style>

@@ -3,8 +3,7 @@
       <div class="container">
         <div class="content has-text-centered">
           <p>
-            <strong>Ping Pong</strong> by <a href="http://slik.com.au">slik</a>. The source code is licensed
-            <a href="http://opensource.org/licenses/mit-license.php">MIT</a>.
+            <strong>Ping Pong</strong> by <a href="http://slik.com.au">slik</a>. Copyright {{new Date().getFullYear() }}.
           </p>
         </div>
       </div>
@@ -28,4 +27,5 @@ strong {
 a {
     color: #ff1782;
 }
+
 </style>
