@@ -3,7 +3,7 @@
       <div class="container">
         <div class="content has-text-centered">
           <p>
-            <strong>Ping Pong</strong> by <a href="http://slik.com.au">slik</a>. Copyright {{new Date().getFullYear() }}.
+            <strong>Ping Pong</strong> by <a href="http://slik.com.au">slik</a>. Copyright {{ new Date().getFullYear()}}.
           </p>
         </div>
       </div>

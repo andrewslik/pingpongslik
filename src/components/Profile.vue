@@ -1,5 +1,5 @@
 <template>
-    <div>
+    <div class="profile">
         <div class="columns">
             <div class="column">
                 <h3>Name</h3>
@@ -53,6 +53,15 @@ p {
     border-left: 1px solid #fff;
     padding-top: 0;
     padding-bottom: 0;
+}
+$mobile: 480px;
+@media screen and (max-width: $mobile) {
+    .profile .column {
+        margin-bottom: 20px;
+    }
+    .second-row {
+        margin-top: 0;
+    }
 }
 </style>
 
