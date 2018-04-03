@@ -36,7 +36,7 @@ export default {
                 {firstname: 'Sophie', nickname:'Soph', lastname: 'Adams'},
                 {firstname: 'Natalie', nickname:'Nat', lastname: 'Shue'},
                 {firstname: 'Fran', nickname:'Fran', lastname: 'Piazzoni'},
-                {firstname: 'Ryan', nickname:'MVP', lastname: 'Walon'},
+                {firstname: 'Ryan', nickname:'MVP', lastname: 'Waldon'},
                 {firstname: 'Anna', nickname:'Anna', lastname: 'Boucaut'},
                 {firstname: 'Chloe', nickname:'C-Lo', lastname: 'Gilroy'},
                 {firstname: 'Emma', nickname:'Emma', lastname: 'Emma'},
